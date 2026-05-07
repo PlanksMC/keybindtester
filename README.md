@@ -30,9 +30,3 @@ Keybind Tester is a simple desktop application that allows you to test keyboard 
 1. Go to the **Releases** section
 2. Download the latest `.exe` file
 3. Run it (no installation needed)
-
-### Option 2: Run from Source
-
-```bash
-git clone https://github.com/yourusername/keybind-tester.git
-cd keybind-tester
