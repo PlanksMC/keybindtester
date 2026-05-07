@@ -27,6 +27,6 @@ Keybind Tester is a simple desktop application that allows you to test keyboard 
 ## 🖥️ Installation
 
 ### Option 1: Download Executable
-1. Go to the **Releases** section
+1. Go to the **Releases** section on the right of the screen, or click the `.exe` file at the top of the page.
 2. Download the latest `.exe` file
 3. Run it (no installation needed)
